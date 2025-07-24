@@ -16,10 +16,7 @@ A simple desktop app built with Electron that lets you guess Heads or Tails, tra
 
 ## 🚀 Installation
 
-1. Download the latest `.exe` file from the [Releases](#) tab *(or wherever you host it)*.
-2. Run the installer (`CoinTossApp Setup 1.0.0.exe`).
-3. Follow the on-screen instructions.
-4. Open the app from your Start Menu or desktop shortcut.
+⚠️ This app does not have prebuilt installers yet. You’ll need to build it yourself.
 
 ---
 
